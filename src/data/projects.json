@@ -1,26 +1,26 @@
 [
   {
     "title": "Project A",
-    "imageSrc": "projects/project.png",
+    "imageSrc": "projects/projectA.png",
     "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
+    "skills": ["React", "Express", "Node","Javascript"],
+    "demo": "#",
     "source": "https://www.github.com"
   },
   {
     "title": "Project B",
-    "imageSrc": "projects/project.png",
+    "imageSrc": "projects/projectB.png",
     "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
+    "skills": ["React", "Express", "Node", "JS"],
+    "demo": "#",
     "source": "https://www.github.com"
   },
   {
     "title": "Project C",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
+    "description": "This  project is build up react frontend and banckend side is used Node.js, MongoDB& express.js.",
+    "skills": ["React", "Express", "Node"," designed with css"],
+    "demo": "#",
     "source": "https://www.github.com"
   }
 ]
